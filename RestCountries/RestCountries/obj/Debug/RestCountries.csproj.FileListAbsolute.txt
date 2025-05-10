@@ -1,0 +1,13 @@
+C:\Users\vecchi.21208\Park-Thread\RestCountries\RestCountries\bin\Debug\RestCountries.exe.config
+C:\Users\vecchi.21208\Park-Thread\RestCountries\RestCountries\bin\Debug\RestCountries.exe
+C:\Users\vecchi.21208\Park-Thread\RestCountries\RestCountries\bin\Debug\RestCountries.pdb
+C:\Users\vecchi.21208\Park-Thread\RestCountries\RestCountries\obj\Debug\RestCountries.csproj.AssemblyReference.cache
+C:\Users\vecchi.21208\Park-Thread\RestCountries\RestCountries\obj\Debug\RestCountries.Form1.resources
+C:\Users\vecchi.21208\Park-Thread\RestCountries\RestCountries\obj\Debug\RestCountries.Properties.Resources.resources
+C:\Users\vecchi.21208\Park-Thread\RestCountries\RestCountries\obj\Debug\RestCountries.csproj.GenerateResource.cache
+C:\Users\vecchi.21208\Park-Thread\RestCountries\RestCountries\obj\Debug\RestCountries.csproj.CoreCompileInputs.cache
+C:\Users\vecchi.21208\Park-Thread\RestCountries\RestCountries\obj\Debug\RestCountries.exe
+C:\Users\vecchi.21208\Park-Thread\RestCountries\RestCountries\obj\Debug\RestCountries.pdb
+C:\Users\vecchi.21208\Park-Thread\RestCountries\RestCountries\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vecchi.21208\Park-Thread\RestCountries\RestCountries\bin\Debug\Newtonsoft.Json.xml
+C:\Users\vecchi.21208\Park-Thread\RestCountries\RestCountries\obj\Debug\RestCoun.C07410F8.Up2Date
