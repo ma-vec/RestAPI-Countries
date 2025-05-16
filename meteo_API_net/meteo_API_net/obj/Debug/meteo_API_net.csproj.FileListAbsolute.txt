@@ -1,0 +1,11 @@
+C:\Users\vecchi.21208\source\repos\meteo_API_net\meteo_API_net\bin\Debug\meteo_API_net.dll
+C:\Users\vecchi.21208\source\repos\meteo_API_net\meteo_API_net\bin\Debug\meteo_API_net.pdb
+C:\Users\vecchi.21208\source\repos\meteo_API_net\meteo_API_net\obj\Debug\meteo_API_net.csproj.AssemblyReference.cache
+C:\Users\vecchi.21208\source\repos\meteo_API_net\meteo_API_net\obj\Debug\meteo_API_net.csproj.CoreCompileInputs.cache
+C:\Users\vecchi.21208\source\repos\meteo_API_net\meteo_API_net\obj\Debug\meteo_API_net.dll
+C:\Users\vecchi.21208\source\repos\meteo_API_net\meteo_API_net\obj\Debug\meteo_API_net.pdb
+C:\Users\vecchi.21208\source\repos\meteo_API_net\meteo_API_net\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vecchi.21208\source\repos\meteo_API_net\meteo_API_net\bin\Debug\Newtonsoft.Json.xml
+C:\Users\vecchi.21208\source\repos\meteo_API_net\meteo_API_net\obj\Debug\meteo_API_net.UserControl1.resources
+C:\Users\vecchi.21208\source\repos\meteo_API_net\meteo_API_net\obj\Debug\meteo_API_net.csproj.GenerateResource.cache
+C:\Users\vecchi.21208\source\repos\meteo_API_net\meteo_API_net\obj\Debug\meteo_AP.4A1555F5.Up2Date
